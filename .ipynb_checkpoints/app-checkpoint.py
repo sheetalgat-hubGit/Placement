@@ -1,4 +1,4 @@
-import streamlit as st     # streamlit framework  gives  dummy ui and flask gives real ui
+import streamlit as st     # framework  gives  dummy ui and flask gives real ui
 import joblib
 import numpy as np
 

@@ -1,0 +1,25 @@
+# dependency
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+
+#pip install -r requirements.txt
+#This packages are already installed in our local machine but to deploy on deployment server this dependency or requirements.txt file is created.
+
+# You must ensure that the server has all necessary dependencies installed:create virtual environment
+# python -m venv venv
+# source venv/bin/activate
+# pip install -r requirements.txt
+
+
+# initialize-->git init
+# git add .
+# readme.md --to add single file
+# git commit -m "done"
+# to change branch "master"--> git branch -M main
+# create github repository-->git remote add origin https://github.com/sheetalgat-hubGit/Placement.git 
+# git push -u origin main
