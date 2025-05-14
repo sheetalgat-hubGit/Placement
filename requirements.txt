@@ -1,15 +1,16 @@
 # dependency
+joblib
 streamlit
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
-joblib
+
 
 #pip install -r requirements.txt
 #This packages are already installed in our local machine but to deploy on deployment server this dependency or requirements.txt file is created.
-
+#streamlit run app.py
 # You must ensure that the server has all necessary dependencies installed:create virtual environment
 # python -m venv venv
 # source venv/bin/activate
